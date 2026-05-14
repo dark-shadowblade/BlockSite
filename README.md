@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=🚫+BlockSite;Python+Website+Blocker;Boost+Productivity+with+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=BlockSite;Python+Website+Blocker;Boost+Productivity+with+Automation" />
 
 ### A simple Python automation project that blocks distracting websites during work or study hours.
 
