@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚫 BlockSite – Website Blocker Python
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=🚫+BlockSite;Python+Website+Blocker;Boost+Productivity+with+Automation" />
 
 ### A simple Python automation project that blocks distracting websites during work or study hours.
 
@@ -12,19 +12,63 @@
 
 ---
 
-## 👥 Team Members
+# 👨‍💻 TEAM MEMBERS
 
 <div align="center">
 
-| Name | Roll Number |
-|---|---|
-| Abhishek Kumar Kalaujiya | 2407370130002 |
-| Abhishek Rao | 2407370130004 |
-| Anikesh Kumar | 2407370130016 |
-| Prince Kannaujiya | 2407370130046 |
-| Saransh Sonkar | 2407370130056 |
-| Vishnu Pratap Singh | 2407370130069 |
-| Yogendra | 2407370130070 |
+### 🚀 Project Contributors
+
+<table>
+<tr>
+
+<td align="center" width="160">
+<img src="https://ui-avatars.com/api/?name=AK&background=0D1117&color=00FFFF&size=128" width="80"/><br>
+<b>Abhishek Kumar Kalaujiya</b><br>
+2407370130002
+</td>
+
+<td align="center" width="160">
+<img src="https://ui-avatars.com/api/?name=AR&background=0D1117&color=FF00FF&size=128" width="80"/><br>
+<b>Abhishek Rao</b><br>
+2407370130004
+</td>
+
+<td align="center" width="160">
+<img src="https://ui-avatars.com/api/?name=AN&background=0D1117&color=00FF99&size=128" width="80"/><br>
+<b>Anikesh Kumar</b><br>
+2407370130016
+</td>
+
+<td align="center" width="160">
+<img src="https://ui-avatars.com/api/?name=PK&background=0D1117&color=FFD700&size=128" width="80"/><br>
+<b>Prince Kannaujiya</b><br>
+2407370130046
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="160">
+<img src="https://ui-avatars.com/api/?name=SS&background=0D1117&color=FF6666&size=128" width="80"/><br>
+<b>Saransh Sonkar</b><br>
+2407370130056
+</td>
+
+<td align="center" width="160">
+<img src="https://ui-avatars.com/api/?name=VP&background=0D1117&color=66CCFF&size=128" width="80"/><br>
+<b>Vishnu Pratap Singh</b><br>
+2407370130069
+</td>
+
+<td align="center" width="160">
+<img src="https://ui-avatars.com/api/?name=YG&background=0D1117&color=FFFFFF&size=128" width="80"/><br>
+<b>Yogendra</b><br>
+2407370130070
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -34,24 +78,70 @@
 
 ---
 
-# 📌 Overview
+# 📌 OVERVIEW
 
-BlockSite is a Python-based website blocker designed to improve productivity by restricting access to distracting websites during working or study hours.
+> BlockSite is a Python-based website blocker designed to improve productivity by restricting access to distracting websites during working or study hours.
 
 The project works by modifying the system hosts file and redirecting selected websites to the localhost address (`127.0.0.1`).
 
 ---
 
-# ⚙️ Technologies Used
+# ⚙️ FEATURES
 
-- Python
-- File Handling
-- Datetime Module
-- OS Module
+| 🚀 Feature | 📖 Description |
+|---|---|
+| 🌐 Website Blocking | Blocks distracting websites automatically |
+| ⏰ Time Scheduling | Blocks websites during selected hours |
+| 💻 Cross Platform | Works on Windows and Linux |
+| 🧠 Automation | Automatically updates hosts file |
+| 🔒 Productivity | Helps reduce distractions |
 
 ---
 
-# 🧠 How it Works
+# 🛠️ TECH STACK
+
+| Technology | Purpose |
+|---|---|
+| Python | Core programming language |
+| Datetime Module | Time scheduling |
+| File Handling | Hosts file modification |
+| OS Module | Operating system detection |
+
+---
+
+# 📂 PROJECT STRUCTURE
+
+```text
+BlockSite/
+│
+├── app.py
+│   └── Main website blocker script
+│
+├── app v2.py
+│   └── Updated version of blocker
+│
+├── host_file_location.png
+│   └── Hosts file reference image
+│
+├── site_to_block.png
+│   └── Website blocking example
+│
+├── time_to_block.png
+│   └── Working hours setup
+│
+├── requirements.txt
+│   └── Project dependencies
+│
+├── .gitignore
+│   └── Ignore unnecessary files
+│
+└── README.md
+    └── Project documentation
+```
+
+---
+
+# 🧠 HOW IT WORKS
 
 The script redirects blocked websites to:
 
@@ -65,90 +155,53 @@ Example:
 127.0.0.1 facebook.com
 ```
 
-This prevents the browser from accessing the real website.
+This prevents the browser from accessing the actual website.
 
 The websites are automatically unblocked after working hours.
 
 ---
 
-# 🖼️ Project Images
+# 🖼️ PROJECT IMAGES
 
-## Hosts File Location
+## 📍 Hosts File Location
 
 <p align="center">
-  <img src="./host_file_location.png" width="700"/>
+  <img src="./host_file_location.png" width="750"/>
 </p>
 
 ---
 
-## Websites to Block
+## 🌐 Websites to Block
 
 <p align="center">
-  <img src="./site_to_block.png" width="700"/>
+  <img src="./site_to_block.png" width="750"/>
 </p>
 
 ---
 
-## Setting Working Hours
+## ⏰ Setting Working Hours
 
 <p align="center">
-  <img src="./time_to_block.png" width="700"/>
+  <img src="./time_to_block.png" width="750"/>
 </p>
 
 ---
 
-# 🌐 Websites to Block
+# 🚀 SETUP & INSTALLATION
 
-Open `app.py` and edit:
-
-```python
-sites_to_block = [
-    "facebook.com",
-    "youtube.com",
-    "instagram.com"
-]
-```
-
----
-
-# ⏰ Setting Working Hours
-
-Edit the last line in `app.py`:
-
-```python
-block_websites(9, 21)
-```
-
-This blocks websites from 9 AM to 9 PM.
-
----
-
-# 💻 Hosts File Locations
-
-### Windows
-
-```txt
-C:\Windows\System32\drivers\etc\hosts
-```
-
-### Linux
-
-```txt
-/etc/hosts
-```
-
----
-
-# 🚀 Getting Started
-
-Clone the repository:
+### 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/dark-shadowblade/BlockSite.git
+```
+
+### 2️⃣ Open Project Folder
+
+```bash
 cd BlockSite
 ```
 
-Run the script:
+### 3️⃣ Run Project
 
 ```bash
 python app.py
@@ -156,27 +209,30 @@ python app.py
 
 ---
 
-# 📂 Project Structure
+# 💻 HOSTS FILE LOCATION
 
-```text
-BlockSite/
-│
-├── app.py
-├── app v2.py
-├── README.md
-├── host_file_location.png
-├── site_to_block.png
-└── time_to_block.png
+## Windows
+
+```txt
+C:\Windows\System32\drivers\etc\hosts
+```
+
+## Linux
+
+```txt
+/etc/hosts
 ```
 
 ---
 
-# 📌 Note
+# 📌 NOTE
 
 Run the script as Administrator because modifying the hosts file requires system permission.
 
 ---
 
-# 📖 Conclusion
+<div align="center">
 
-BlockSite demonstrates practical use of Python automation and file handling by controlling website access through hosts file modification.
+### Made with ❤️ by the Team
+
+</div>
