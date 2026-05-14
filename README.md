@@ -1,8 +1,12 @@
 <div align="center">
 
-# FocusGuard – Website Blocker Python
+# 🚫 BlockSite – Website Blocker Python
 
-A simple Python automation project that blocks distracting websites during working or study hours by modifying the system hosts file.
+### A simple Python automation project that blocks distracting websites during work or study hours.
+
+<img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Automation-Project-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-orange?style=for-the-badge" />
 
 </div>
 
@@ -10,66 +14,35 @@ A simple Python automation project that blocks distracting websites during worki
 
 ## 👥 Team Members
 
-This project was developed collaboratively by students of Rajkiya Engineering College, Ambedkar Nagar.
+<div align="center">
 
-<table align="center">
+| Name | Roll Number |
+|---|---|
+| Abhishek Kumar Kalaujiya | 2407370130002 |
+| Abhishek Rao | 2407370130004 |
+| Anikesh Kumar | 2407370130016 |
+| Prince Kannaujiya | 2407370130046 |
+| Saransh Sonkar | 2407370130056 |
+| Vishnu Pratap Singh | 2407370130069 |
+| Yogendra | 2407370130070 |
 
-<tr>
-<td align="center" width="150">
-<b>Abhishek Kumar Kalaujiya</b><br />
-2407370130002
-</td>
-
-<td align="center" width="150">
-<b>Abhishek Rao</b><br />
-2407370130004
-</td>
-
-<td align="center" width="150">
-<b>Anikesh Kumar</b><br />
-2407370130016
-</td>
-
-<td align="center" width="150">
-<b>Prince Kannaujiya</b><br />
-2407370130046
-</td>
-</tr>
-
-<tr>
-<td align="center" width="150">
-<b>Saransh Sonkar</b><br />
-2407370130056
-</td>
-
-<td align="center" width="150">
-<b>Vishnu Pratap Singh</b><br />
-2407370130069
-</td>
-
-<td align="center" width="150">
-<b>Yogendra</b><br />
-2407370130070
-</td>
-</tr>
-
-</table>
+</div>
 
 <p align="center">
-<em>B.Tech IT — Rajkiya Engineering College, Ambedkar Nagar</em>
+<b>B.Tech IT — <a href="https://recabn.ac.in/">Rajkiya Engineering College, Ambedkar Nagar</a></b>
 </p>
 
 ---
 
-## 📌 Overview
+# 📌 Overview
 
-FocusGuard is a Python-based website blocker designed to improve productivity by restricting access to distracting websites during working or study hours.
+BlockSite is a Python-based website blocker designed to improve productivity by restricting access to distracting websites during working or study hours.
 
 The project works by modifying the system hosts file and redirecting selected websites to the localhost address (`127.0.0.1`).
 
 ---
 
-## ⚙️ Technologies Used
+# ⚙️ Technologies Used
 
 - Python
 - File Handling
@@ -78,7 +51,7 @@ The project works by modifying the system hosts file and redirecting selected we
 
 ---
 
-## 🧠 How it Works
+# 🧠 How it Works
 
 The script redirects blocked websites to:
 
@@ -98,7 +71,7 @@ The websites are automatically unblocked after working hours.
 
 ---
 
-## 🌐 Websites to Block
+# 🌐 Websites to Block
 
 Open `app.py` and edit:
 
@@ -112,7 +85,7 @@ sites_to_block = [
 
 ---
 
-## ⏰ Setting Working Hours
+# ⏰ Setting Working Hours
 
 Edit the last line in `app.py`:
 
@@ -124,7 +97,7 @@ This blocks websites from 9 AM to 9 PM.
 
 ---
 
-## 💻 Hosts File Locations
+# 💻 Hosts File Locations
 
 ### Windows
 
@@ -140,7 +113,7 @@ C:\Windows\System32\drivers\etc\hosts
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Getting Started
 
 Clone the repository:
 
@@ -157,7 +130,7 @@ python app.py
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```text
 BlockSite/
@@ -170,12 +143,12 @@ BlockSite/
 
 ---
 
-## 📌 Note
+# 📌 Note
 
 Run the script as Administrator because modifying the hosts file requires system permission.
 
 ---
 
-## 📖 Conclusion
+# 📖 Conclusion
 
-FocusGuard demonstrates practical use of Python automation and file handling by controlling website access through hosts file modification.
+BlockSite demonstrates practical use of Python automation and file handling by controlling website access through hosts file modification.
