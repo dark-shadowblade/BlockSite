@@ -1,27 +1,26 @@
-# Python cache files
+
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
 
-# Virtual environment
+
 venv/
 env/
 
-# IDE files
+
 .idea/
 .vscode/
 
-# System files
 .DS_Store
 Thumbs.db
 
-# Python environment
+
 .python-version
 
-# Build files
+
 build/
 dist/
 
-# Logs
+
 *.log
