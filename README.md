@@ -1,9 +1,10 @@
-<p align="center">
-  <h1 align="center">FocusGuard – Website Blocker Python</h1>
-  <p align="center">
-    A simple Python automation project that blocks distracting websites during working or study hours by modifying the system hosts file.
-  </p>
-</p>
+<div align="center">
+
+# FocusGuard – Website Blocker Python
+
+A simple Python automation project that blocks distracting websites during working or study hours by modifying the system hosts file.
+
+</div>
 
 ---
 
@@ -12,48 +13,50 @@
 This project was developed collaboratively by students of Rajkiya Engineering College, Ambedkar Nagar.
 
 <table align="center">
-  <tr>
-    <td align="center" width="150">
-      <b>Abhishek Kumar Kalaujiya</b><br />
-      2407370130002
-    </td>
 
-    <td align="center" width="150">
-      <b>Abhishek Rao</b><br />
-      2407370130004
-    </td>
+<tr>
+<td align="center" width="150">
+<b>Abhishek Kumar Kalaujiya</b><br />
+2407370130002
+</td>
 
-    <td align="center" width="150">
-      <b>Anikesh Kumar</b><br />
-      2407370130016
-    </td>
+<td align="center" width="150">
+<b>Abhishek Rao</b><br />
+2407370130004
+</td>
 
-    <td align="center" width="150">
-      <b>Prince Kannaujiya</b><br />
-      2407370130046
-    </td>
-  </tr>
+<td align="center" width="150">
+<b>Anikesh Kumar</b><br />
+2407370130016
+</td>
 
-  <tr>
-    <td align="center" width="150">
-      <b>Saransh Sonkar</b><br />
-      2407370130056
-    </td>
+<td align="center" width="150">
+<b>Prince Kannaujiya</b><br />
+2407370130046
+</td>
+</tr>
 
-    <td align="center" width="150">
-      <b>Vishnu Pratap Singh</b><br />
-      2407370130069
-    </td>
+<tr>
+<td align="center" width="150">
+<b>Saransh Sonkar</b><br />
+2407370130056
+</td>
 
-    <td align="center" width="150">
-      <b>Yogendra</b><br />
-      2407370130070
-    </td>
-  </tr>
+<td align="center" width="150">
+<b>Vishnu Pratap Singh</b><br />
+2407370130069
+</td>
+
+<td align="center" width="150">
+<b>Yogendra</b><br />
+2407370130070
+</td>
+</tr>
+
 </table>
 
 <p align="center">
-  <em>B.Tech IT — Rajkiya Engineering College, Ambedkar Nagar</em>
+<em>B.Tech IT — Rajkiya Engineering College, Ambedkar Nagar</em>
 </p>
 
 ---
