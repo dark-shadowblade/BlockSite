@@ -71,6 +71,32 @@ The websites are automatically unblocked after working hours.
 
 ---
 
+# 🖼️ Project Images
+
+## Hosts File Location
+
+<p align="center">
+  <img src="./host_file_location.png" width="700"/>
+</p>
+
+---
+
+## Websites to Block
+
+<p align="center">
+  <img src="./site_to_block.png" width="700"/>
+</p>
+
+---
+
+## Setting Working Hours
+
+<p align="center">
+  <img src="./time_to_block.png" width="700"/>
+</p>
+
+---
+
 # 🌐 Websites to Block
 
 Open `app.py` and edit:
@@ -138,7 +164,9 @@ BlockSite/
 ├── app.py
 ├── app v2.py
 ├── README.md
-└── screenshots/
+├── host_file_location.png
+├── site_to_block.png
+└── time_to_block.png
 ```
 
 ---
